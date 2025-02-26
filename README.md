@@ -1,7 +1,7 @@
 # Nepali-LLaMA models
 
 
-This repository contains a collection of Llama models fine-tuned for context-based question answering and instruction-following in the Nepali language. 
+This repository contains a collection of Llama models fine-tuned for general question-answering and instruction-following in the Nepali language. 
 
 ---
 
@@ -16,7 +16,7 @@ This repository contains a collection of Llama models fine-tuned for context-bas
 ---
 
 ## Overview
-Each model in this collection has been fine-tuned using Nepali-language datasets and optimized for specific applications, such as handling Nepali conversational data or generating task-specific instructions. These models are provided in various quantization levels, including 16-bit, 4-bit, and LoRA, enabling deployment across diverse hardware setups.
+Each model in this collection has been fine-tuned for general Nepali question-answering and instruction-following tasks, leveraging Nepali-language datasets to enhance contextual understanding and response accuracy. These models are available in multiple quantization formats (16-bit, 4-bit, LoRA, and GGUF), ensuring efficient deployment across a wide range of hardware, including CPUs .
 
 
 ## Model List
